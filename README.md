@@ -81,5 +81,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Adjust the content as needed based on your project's specifics. Include any additional information or steps that might be relevant to users. Update the license file and project structure accordingly.
