@@ -27,7 +27,7 @@ cd library-management-system
 
 Make sure you have the following installed on your system:
 
-- [Qt](https://www.qt.io/download) (version X.X.X or later)
+- [Qt](https://www.qt.io/download) (version 6.6.1 or later)
 - C++ compiler (e.g., GCC, Visual Studio, Clang)
 
 ## Building and Running
